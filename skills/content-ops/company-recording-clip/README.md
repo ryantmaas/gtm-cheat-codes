@@ -2,7 +2,7 @@
 
 ## Use When
 
-Use this when a team knows a useful moment happened in a meeting, event, webinar, or internal recording but does not have a clean clip ready to share.
+Use this when a team knows a useful moment happened in a meeting, event, webinar, or company recording but does not have a clean clip ready to share.
 
 ## What It Does
 

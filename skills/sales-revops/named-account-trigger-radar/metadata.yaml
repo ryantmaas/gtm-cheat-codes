@@ -1,13 +1,13 @@
 name: named-account-trigger-radar
 display_name: "Named Account Trigger Radar"
 gtm_function: "Sales / ABM / RevOps"
-repo_status: "core-v1-scrubbed-draft"
+repo_status: "ready-for-adaptation"
 privacy_level: "adapt-before-use"
 platform_layer_demonstrated:
   - context
   - tools
   - harness
-zapier_mcp_role: "Read CRM, account lists, approved internal signals, public research, and collaboration context"
+zapier_mcp_role: "Read CRM, account lists, approved account signals, public research, and collaboration context"
 zapier_sdk_role: "Scheduled account watchlists, account-priority logging, and approved owner notifications"
 tool_dependencies:
   - CRM

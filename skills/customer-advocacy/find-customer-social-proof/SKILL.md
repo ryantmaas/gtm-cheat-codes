@@ -42,6 +42,6 @@ A marketer or seller needs credible customer proof and does not know which asset
 
 - Never fabricate customer proof.
 - Never imply a customer approved a claim unless the source confirms it.
-- Do not expose internal sales notes in external copy.
+- Do not expose non-public sales notes in external copy.
 - Respect restriction notes, expiration, and channel limits.
 - Require human approval before publishing or sending externally.

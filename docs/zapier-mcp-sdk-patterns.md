@@ -54,13 +54,3 @@ References:
 3. Zapier SDK turns recurring work into a durable workflow.
 4. The workflow logs state and routes approvals.
 5. A human approves external messages, CRM writes, customer-facing claims, and public publishing.
-
-## What To Put In Each Skill
-
-Each skill should name:
-
-- Zapier MCP sources and actions.
-- Zapier SDK jobs, if any.
-- Recommended app connections.
-- Approval gates.
-- A first safe test.

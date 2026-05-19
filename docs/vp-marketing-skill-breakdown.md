@@ -27,17 +27,3 @@ Use this overview with marketing leaders and IT partners who need to map concret
 | No Lead Left Behind Standup Brief | A meeting needs a short update on movement and blockers, not a long lead dump. | Produces a brief standup summary with the key changes, risks, and actions. |
 | Clip Request Intake | Content or social needs a clean way to request a clip. | Captures source recording, target moment, approval owner, and destination. |
 | Clip Approval And Handoff | A clip is ready but still needs review and publishing coordination. | Routes the clip for approval, logs the asset, and creates the distribution handoff. |
-
-## Customer-Friendly Framing
-
-For customer or executive conversations, lead with the business workflow, not the tool:
-
-- Campaign acceleration
-- Campaign learning
-- Lead follow-up QA
-- Account prioritization
-- Sales personalization
-- Customer proof and storytelling
-- Content repurposing
-
-Then explain the system layer simply: Zapier MCP gives the coding agent permissioned access to approved business context and actions, and Zapier SDK turns repeatable work into a reliable workflow with approval gates.

@@ -19,7 +19,7 @@
 1. Create a Zapier MCP server at `https://mcp.zapier.com`.
 2. Add tools for campaign docs, analytics or dashboard sources, CRM, meeting notes, collaboration context, and trackers.
 3. Connect each app account through Zapier.
-4. Test by gathering source material and drafting an internal-only retro outline.
+4. Test by gathering source material and drafting an draft-only retro outline.
 
 ## Zapier SDK Setup
 

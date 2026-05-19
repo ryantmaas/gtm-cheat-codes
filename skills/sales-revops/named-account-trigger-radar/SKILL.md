@@ -17,7 +17,7 @@ Use this skill to decide which named accounts sales or marketing should work now
 
 ## Zapier MCP And SDK Role
 
-- Use Zapier MCP to read CRM, account lists, approved internal signals, public research, and collaboration context.
+- Use Zapier MCP to read CRM, account lists, approved account signals, public research, and collaboration context.
 - Use Zapier SDK for scheduled account watchlists, account-priority logging, and approved owner notifications.
 - Keep CRM updates and outbound recommendations human-reviewed.
 

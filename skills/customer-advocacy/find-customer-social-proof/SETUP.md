@@ -17,7 +17,7 @@
 1. Create a Zapier MCP server at `https://mcp.zapier.com`.
 2. Add tools for the approved customer content library, CRM, document folders, deck library, and approval tracker.
 3. Connect each app account through Zapier.
-4. Test by finding proof for an internal-only request and confirming approval metadata is visible.
+4. Test by finding proof for an draft-only request and confirming approval metadata is visible.
 
 ## Zapier SDK Setup
 

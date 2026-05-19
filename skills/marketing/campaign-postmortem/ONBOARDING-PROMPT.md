@@ -8,6 +8,6 @@ Ask the user for:
 2. Approved source docs, dashboards, reports, meeting notes, and feedback.
 3. Which metrics are official enough to cite.
 4. Who owns final review.
-5. Whether the output is for internal learning, executive review, or broad sharing.
+5. Whether the output is for team learning, executive review, or broad sharing.
 
 Do not write the retro until the measurement period and official metric source are clear.

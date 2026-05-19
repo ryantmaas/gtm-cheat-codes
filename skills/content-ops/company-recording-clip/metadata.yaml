@@ -1,8 +1,8 @@
 name: company-recording-clip
 display_name: "Company Recording To Postable Clip"
 gtm_function: "Content Ops / Social / Comms"
-repo_status: "stretch-v1-demo"
-privacy_level: "shareable-after-sanitized-example"
+repo_status: "advanced-pattern"
+privacy_level: "approval-gated"
 platform_layer_demonstrated:
   - context
   - tools

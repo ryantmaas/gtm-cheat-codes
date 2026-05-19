@@ -1,7 +1,7 @@
 name: inbound-lead-audit-cx-map
 display_name: "Inbound Lead Audit + CX Map"
 gtm_function: "GTM Ops / Marketing Ops"
-repo_status: "core-v1-scrubbed-draft"
+repo_status: "ready-for-adaptation"
 privacy_level: "adapt-before-use"
 platform_layer_demonstrated:
   - context

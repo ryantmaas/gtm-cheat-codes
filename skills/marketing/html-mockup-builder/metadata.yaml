@@ -1,7 +1,7 @@
 name: html-mockup-builder
 display_name: "HTML Mockup Builder"
 gtm_function: "Marketing / Web"
-repo_status: "core-v1-scrubbed-draft"
+repo_status: "ready-for-adaptation"
 privacy_level: "adapt-before-use"
 platform_layer_demonstrated:
   - harness

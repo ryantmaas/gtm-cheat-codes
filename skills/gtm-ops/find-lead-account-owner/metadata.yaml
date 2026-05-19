@@ -1,7 +1,7 @@
 name: find-lead-account-owner
 display_name: "Find Lead Account Owner"
 gtm_function: "GTM Ops / RevOps"
-repo_status: "helper-v1-scrubbed-draft"
+repo_status: "helper-pattern"
 privacy_level: "adapt-before-use"
 platform_layer_demonstrated:
   - context
