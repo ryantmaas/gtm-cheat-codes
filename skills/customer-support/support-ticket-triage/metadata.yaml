@@ -1,0 +1,27 @@
+name: support-ticket-triage
+display_name: "Support Ticket Triage Agent"
+gtm_function: "Customer Support"
+repo_status: "source-backed-v1"
+privacy_level: "approved_customer_story"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+zapier_mcp_role: "Read helpdesk tickets, comments, requester details, issue tracker results, feature backlog items, knowledge-base docs, and optional CRM context"
+zapier_sdk_role: "Optional triggered workflows for tagging, escalation packets, similar-ticket linking, SLA warnings, follow-up reminders, regression alerts, and triage digests"
+tool_dependencies:
+  - Helpdesk
+  - Issue tracker
+  - Knowledge base
+  - Feature backlog
+  - Optional CRM
+  - Optional source control
+  - Optional observability
+target_user: "Support leaders, support ops, and technical support reps"
+review_recommended: true
+inspired_by:
+  company: "ClickUp"
+  champion: "Corey Smith"
+  story_url: "https://zapier.com/customer-stories/clickup"
+  key_metric: "917+ hours saved monthly across 5,000+ tickets"

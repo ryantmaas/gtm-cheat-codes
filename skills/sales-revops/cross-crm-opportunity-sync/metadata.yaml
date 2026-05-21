@@ -1,0 +1,26 @@
+name: cross-crm-opportunity-sync
+display_name: "Cross-CRM Opportunity Sync"
+gtm_function: "Sales / RevOps"
+repo_status: "source-backed-v1"
+privacy_level: "approved_customer_story"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+zapier_mcp_role: "Read and write approved CRM fields, call an LLM for matching and enrichment, look up master customer records, and route rep notifications"
+zapier_sdk_role: "Durable workflow execution, retries, logs, schedules, sandbox-to-production promotion, audit trails, and reconciliation logic"
+tool_dependencies:
+  - Two or more CRMs
+  - Master customer record
+  - LLM connection
+  - Optional warehouse
+  - Optional team chat
+  - Optional finance or commission system
+target_user: "RevOps, Sales Ops, MIS, and business-unit operators"
+review_recommended: true
+inspired_by:
+  company: "Voltt, consulting Cyncly"
+  champion: "William Ascough"
+  story_url: "https://zapier.com/blog/voltt-operators-integration"
+  key_metric: "Reference implementation collapsed roughly 230 hours per year of bundled-deal reconciliation work"
