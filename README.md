@@ -22,6 +22,7 @@ If you are a marketing, sales, or ops leader, start here:
 - **Lead follow-up QA:** find missed, slow, or low-quality follow-up and create owner-ready actions.
 - **Account prioritization:** rank target accounts by why-now signals and recommend the next move.
 - **Sales personalization:** draft rep-ready outreach from CRM, product usage, and buyer context.
+- **Customer decks:** turn account context, usage signals, and meeting goals into customer-ready decks.
 - **Cross-CRM coordination:** keep opportunity, account, and customer context aligned across multiple CRMs.
 - **Customer proof:** find approved customer stories, quotes, stats, and peer examples for campaigns or sales.
 - **Customer storytelling:** turn approved interviews, notes, and proof points into customer story drafts.

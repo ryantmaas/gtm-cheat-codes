@@ -18,6 +18,7 @@ This repository helps coding agents understand and use GTM workflows with Zapier
 - Campaign postmortems and retrospectives.
 - Customer proof discovery and customer story writing.
 - Sales sequence building.
+- Customer deck generation for sales and customer success.
 - Named account trigger detection.
 - Cross-CRM opportunity and account coordination.
 - Support ticket triage.

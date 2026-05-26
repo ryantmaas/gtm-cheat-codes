@@ -1,0 +1,21 @@
+name: customer-deck-builder
+display_name: "Customer Deck Builder"
+gtm_function: "Sales / Customer Success"
+repo_status: "source-backed-v1"
+privacy_level: "sanitized-internal-pattern"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+zapier_mcp_role: "Read approved CRM, account, usage, meeting, and document context; generate and poll Gamma presentations"
+zapier_sdk_role: "Optional deck request intake, data snapshot logging, approval routing, and handoff tracking"
+tool_dependencies:
+  - Zapier MCP
+  - Gamma
+  - CRM
+  - approved account-data source
+  - approved usage source
+  - Docs or meeting notes
+target_user: "Sales, customer success, onboarding, and RevOps teams"
+review_recommended: true
