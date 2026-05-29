@@ -1,6 +1,6 @@
-# GTM Coding Agent Skills
+# GTM Cheat Codes
 
-> A practical starter kit of reusable GTM skills and automations for coding agents.
+> The coding-agent skills Zapier GTM teams use to turn scattered context into reviewable work products.
 
 This repository helps coding agents understand and use GTM workflows with Zapier MCP and Zapier SDK.
 
