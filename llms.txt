@@ -16,6 +16,7 @@ This repository helps coding agents understand and use GTM workflows with Zapier
 
 - Marketing campaign generation.
 - Campaign postmortems and retrospectives.
+- Media inbox triage for PR, partnerships, community, and marketing operations.
 - Customer proof discovery and customer story writing.
 - Sales sequence building.
 - Customer deck generation for sales and customer success.
@@ -24,6 +25,7 @@ This repository helps coding agents understand and use GTM workflows with Zapier
 - Support ticket triage.
 - Legal operations caller triage.
 - Lead treatment audits and lead stewardship.
+- Sheet cache bridge patterns for Zapier Tables and Google Sheets.
 - SDR unconverted hand-raiser call lists.
 - Content ops, including meeting-recording clip creation.
 

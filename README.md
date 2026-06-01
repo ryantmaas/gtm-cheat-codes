@@ -19,7 +19,9 @@ If you are a marketing, sales, customer operations, or business operations leade
 
 - **Campaign planning:** turn briefs, launch notes, and source docs into campaign packages and page mockups.
 - **Campaign learning:** turn campaign data and team feedback into a sourced postmortem with clear next actions.
+- **Media inbox triage:** find press, partnership, customer, and urgent-risk requests in a shared inbox before they are missed.
 - **Lead follow-up QA:** find missed, slow, or low-quality follow-up and create owner-ready actions.
+- **Sheet cache bridges:** keep a record store as source of truth while legacy Google Sheets-based tools keep reading a lightweight cache tab.
 - **Account prioritization:** rank target accounts by why-now signals and recommend the next move.
 - **Sales personalization:** draft rep-ready outreach from CRM, product usage, and buyer context.
 - **Customer decks:** turn account context, usage signals, and meeting goals into customer-ready decks.

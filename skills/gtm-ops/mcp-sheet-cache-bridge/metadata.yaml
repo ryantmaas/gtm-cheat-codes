@@ -1,0 +1,24 @@
+name: mcp-sheet-cache-bridge
+display_name: "MCP Sheet Cache Bridge"
+gtm_function: "GTM Ops / Business Operations"
+repo_status: "source-backed-v1"
+privacy_level: "approved_customer_story_limited_attribution"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+zapier_mcp_role: "Read Zapier Tables or another approved record store and create, update, or delete Google Sheets cache rows"
+zapier_sdk_role: "Optional schema validation, idempotent upsert handling, sync logging, retry handling, and health alerts"
+tool_dependencies:
+  - Zapier MCP
+  - Zapier Tables or approved record store
+  - Google Sheets
+  - Optional Slack
+target_user: "GTM Ops, business operations, marketing ops, and builders maintaining legacy Sheet-based read paths"
+review_recommended: true
+inspired_by:
+  company: "Not named in public story"
+  champion: "Kenny Taber"
+  story_url: "https://www.zapier.com/blog/kenny-taber-mcp"
+  key_metric: "Multi-tab spreadsheet pipeline moved into Zapier Tables while existing Sheet-based digests kept a lightweight read path"

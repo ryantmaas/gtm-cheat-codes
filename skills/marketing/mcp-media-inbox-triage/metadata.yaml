@@ -1,0 +1,28 @@
+name: mcp-media-inbox-triage
+display_name: "MCP Media Inbox Triage"
+gtm_function: "Marketing Operations / PR"
+repo_status: "source-backed-v1"
+privacy_level: "approved_customer_story"
+platform_layer_demonstrated:
+  - context
+  - tools
+  - governance
+  - harness
+zapier_mcp_role: "Search and read Gmail messages, post Slack triage summaries, append Google Sheets log rows, and create Gmail drafts when approved"
+zapier_sdk_role: "Optional recurring triage runs, owner routing, retry handling, status logging, follow-up reminders, and weekly reporting"
+tool_dependencies:
+  - Zapier MCP
+  - Gmail
+  - Slack
+  - Google Sheets
+  - LLM with structured output
+  - Optional Google Docs
+  - Optional Google Calendar
+  - Optional CRM or advocacy database
+target_user: "Marketing, PR, community, partnerships, and marketing operations teams"
+review_recommended: true
+inspired_by:
+  company: "NoPlex"
+  champion: "Matt Canning"
+  story_url: "https://www.zapier.com/blog/noplex-mcp"
+  key_metric: "Media inbox triage reduced from about 4 hours per week to about 15 minutes"
