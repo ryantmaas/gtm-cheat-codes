@@ -14,6 +14,7 @@ This repository helps coding agents understand and use GTM workflows with Zapier
 
 ## Core Skill Areas
 
+- Getting started: install Zapier and pick the right surface (MCP, SDK, or CLI).
 - Marketing campaign generation.
 - Campaign postmortems and retrospectives.
 - Media inbox triage for PR, partnerships, community, and marketing operations.
