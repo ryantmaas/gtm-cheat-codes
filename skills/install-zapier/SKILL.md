@@ -1,6 +1,6 @@
 ---
 name: install-zapier
-description: Walk a person through installing and connecting Zapier, choosing the right path (MCP, SDK, CLI, or Connectors) for what they want to do. Use when someone says "install Zapier", "add Zapier", "connect Zapier", or "set up Zapier".
+description: Install and connect Zapier, routing to the right surface (MCP, SDK, or CLI) for what the person needs. Use when someone says "install Zapier", "add Zapier", "connect Zapier", or "set up Zapier", or when they want an AI client (Claude, ChatGPT, Cursor) to use their apps, want to call Zapier from code, or want Zapier in the terminal.
 ---
 
 # Install Zapier
