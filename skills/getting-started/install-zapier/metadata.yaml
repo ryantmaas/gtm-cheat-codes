@@ -1,0 +1,13 @@
+name: install-zapier
+display_name: "Install Zapier"
+gtm_function: "Getting Started / Onboarding"
+repo_status: "draft"
+privacy_level: "safe-to-share"
+platform_layer_demonstrated:
+  - harness
+zapier_mcp_role: "Routes to MCP setup for AI clients that need connected app actions"
+zapier_sdk_role: "Routes to SDK and CLI setup for code-based and terminal-driven use"
+tool_dependencies:
+  - none
+target_user: "Anyone installing Zapier for an agent"
+review_recommended: true

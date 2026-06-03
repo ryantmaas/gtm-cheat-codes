@@ -36,6 +36,7 @@ For a plain-English overview of each skill, start with `docs/vp-marketing-skill-
 
 ## Repository Map
 
+- `skills/getting-started/`
 - `skills/marketing/`
 - `skills/customer-advocacy/`
 - `skills/sales-revops/`
